@@ -14,9 +14,13 @@ perplexity(API)
 ### フロントエンド
 html
 react
+tailwind.css
 
 ### バックエンド
 python
+dockerfile
+
+Expose 8080?
 
 ## ファイル設計
 
