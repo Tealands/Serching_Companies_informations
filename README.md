@@ -19,6 +19,8 @@ tailwind.css
 ### バックエンド
 python
 dockerfile
+### 法的問題
+サイトによってはスクレイピングだけでなく、AIによるサーチも禁止している場合がある
 
 Expose 8080?
 
